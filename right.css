@@ -1,0 +1,27 @@
+.main {
+    width: 33.33%;
+    vertical-align: top;
+    padding-bottom: 10px;
+    float: left;
+    align-self: auto;
+}
+
+.ml {
+    width: 33.33%;
+    vertical-align: top;
+    padding-bottom: 10px;
+    float: left;
+    align-self: auto;
+}
+
+.web {
+    width: 33.33%;
+    vertical-align: top;
+    padding-bottom: 10px;
+    float: right;
+    align-self: auto;
+}
+
+.jumbotron{
+ color:green;
+}
